@@ -1,5 +1,12 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=AchiraNadeeshan&style=for-the-badge)
+
+![](https://hit.yhype.me/github/profile?user_id=85824425)
+
+
+
+
+
 <!--
 **AchiraNadeeshan/AchiraNadeeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
