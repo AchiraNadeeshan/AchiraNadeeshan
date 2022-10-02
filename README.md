@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AchiraNadeeshan)
+![](https://komarev.com/ghpvc/?username=AchiraNadeeshan&label=PROFILE+VIEWS)
 <!--
 **AchiraNadeeshan/AchiraNadeeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
