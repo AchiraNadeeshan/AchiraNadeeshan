@@ -1,12 +1,12 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AchiraNadeeshan&style=for-the-badge)
 
-![](https://hit.yhype.me/github/profile?user_id=85824425)
 
 <a href="https://github.com/AchiraNadeeshan"><img alt="Achira's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=achiranadeeshan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/AchiraNadeeshan"><img alt="Achira's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=achiranadeeshan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
  
+![](https://komarev.com/ghpvc/?username=AchiraNadeeshan&style=for-the-badge)
 
+![](https://hit.yhype.me/github/profile?user_id=85824425)
 
 
 <!--
