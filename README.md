@@ -13,31 +13,29 @@ achira@github:~$ whoami
 
 achira@github:~$ cat skills.json
 {
-  "languages": ["Python", "TypeScript", "JavaScript", "C", "Java", "Dart", "SQL"],
-  "frontend": ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+  "languages": ["Python", "TypeScript", "JavaScript", "C", "Dart", "SQL"],
+  "frontend": ["React", "Next.js", "Tailwind CSS"],
   "backend": ["FastAPI", "Node.js", "Express.js", "Flask", "NGINX"],
-  "mobile": ["Flutter"],
-  "ml_ai": ["Scikit-learn", "LangChain", "RAG", "Embeddings", "PyTorch", "TensorFlow"],
-  "data": ["Pandas", "NumPy", "PostgreSQL", "MongoDB", "MySQL", "Firebase"],
-  "devops": ["Docker", "Git", "GitHub", "Vercel", "AWS", "Linux"]
+  "frameworks": ["Flutter"],
+  "ml_ai": ["Scikit-learn", "LangChain", "RAG", "Embeddings"],
+  "data": ["Pandas", "NumPy", "PostgreSQL", "MongoDB", "Firebase"],
+  "devops": ["Docker", "Git", "GitHub", "Vercel", "Linux"]
 }
 
-achira@github:~$ ls ~/projects/
+achira@github:~$ ls projects/
 ├─ SoftSight/         → ML-based project predictor with LLM advice
 ├─ PathFinder/        → Job recommender via semantic similarity
 └─ NIC-Extractor/     → Flutter app for Sri Lankan NIC parsing
 
-achira@github:~$ curl -s https://api.github.com/users/AchiraNadeeshan | jq '.contact'
-{
-  "email": "contact.achira@gmail.com",
-  "linkedin": "linkedin.com/in/achiranadeeshan",
-  "website": "achira.is-a.dev"
-}
+achira@github:~$ echo $CONTACT
+- contact.achira@gmail.com
+- linkedin.com/in/achiranadeeshan
+- achira.is-a.dev
 
-achira@github:~$ ./get_status.sh
-[INFO] Status: Available for opportunities
-[INFO] Focus: AI/ML systems & full-stack development
-[INFO] Mode: Always learning, always building
+achira@github:~$ status --current
+- Open to internships and collaborations
+- Currently diving deeper into AI/ML systems
+- Always learning, always building
 
 achira@github:~$ █
 ```
