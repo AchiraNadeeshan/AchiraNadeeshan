@@ -39,5 +39,20 @@ achira@github:~$ status --current
 
 achira@github:~$ █
 ```
-![](https://komarev.com/ghpvc/?username=AchiraNadeeshan&style=pixel)<!-- make it hidden with pixel -->
-![](https://hit.yhype.me/github/profile?account_id=85824425)<!-- Invisible hit counter -->
+
+<!-- Invisible hit counter -->
+
+![](https://hit.yhype.me/github/profile?account_id=85824425)
+
+<div align="center">
+
+**💬 Let's Connect on Discord**  
+Join for tech discussions, collaboration, or just a chat!
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YprcqQCP4v)
+
+</div>
+
+<!-- make it hidden with pixel -->
+
+![](https://komarev.com/ghpvc/?username=AchiraNadeeshan&style=pixel)
