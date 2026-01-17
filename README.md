@@ -49,7 +49,7 @@ achira@github:~$ █
 **💬 Let's Connect on Discord**  
 Join for tech discussions, collaboration, or just a chat!
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YprcqQCP4v)
+[![Discord](https://img.shields.io/badge/Discord-Come%20Say%20Hi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YprcqQCP4v)
 
 </div>
 
