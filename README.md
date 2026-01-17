@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=AchiraNadeeshan&style=pixel)<!-- make it hidden with pixel -->
-
 ```bash
 ╭─────────────────────────────────────────────────────────────────╮
 │                                                                 │
@@ -43,5 +41,5 @@ achira@github:~$ ./get_status.sh
 
 achira@github:~$ █
 ```
-
+![](https://komarev.com/ghpvc/?username=AchiraNadeeshan&style=pixel)<!-- make it hidden with pixel -->
 ![](https://hit.yhype.me/github/profile?account_id=85824425)<!-- Invisible hit counter -->
